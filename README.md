@@ -4,7 +4,7 @@
   <img src="pictures/gamelogo1.png" alt="Pog Jump Logo" width="400">
 </p
 
-Pog Jump ist ein Spiel, das ich während meines Bundeswehr-BFD von Oktober 2019 bis Ende 2022 entwickelt habe. In dieser Zeit habe ich in Kursen Programmieren in C, C++17 und C# gelernt und anschließend mein eigenes Spiel umgesetzt.
+Pog Jump ist ein Spiel, das ich während meines Bundeswehr-BFD von Oktober 2019 bis Ende 2022 entwickelt habe. In dieser Zeit habe ich in Kursen Programmieren in C/C++17 und C# gelernt und anschließend mein eigenes Spiel umgesetzt.
 
 Das Spiel hatte letztlich keinen großen kommerziellen Erfolg. Ich war vermutlich etwas spät dran, und es gab bereits ähnliche Spiele auf dem Markt. Außerdem fehlte mir noch die Erfahrung, um das Projekt erfolgreich zu vermarkten, und der Tod meines Vaters erschwerte die Entwicklung zusätzlich. Letztlich scheiterte ich an meinem Vorhaben.
 
