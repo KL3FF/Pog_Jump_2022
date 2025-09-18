@@ -27,8 +27,6 @@ Ich stelle es hier zum Download zur Verfügung, sodass jeder es ausprobieren kan
 
 ---
 
-## Pog Jump
-
 Pog Jump ist ein einfaches, aber unterhaltsames Spiel, bei dem man einen Turm hochklettern muss. Der Spieler springt dabei von Treppe zu Treppe und muss geschickt Hindernissen ausweichen, um so weit wie möglich zu kommen.
 
 - **1000 Kostüme** für den Spieler mit 6 verschiedene Designmöglichkeiten, darunter Farbe, Kopfschmuck, Gesichtsschmuck, Accessoires 1 & 2 und Character-Muster
@@ -41,7 +39,9 @@ Pog Jump ist ein einfaches, aber unterhaltsames Spiel, bei dem man einen Turm ho
 - **5 wählbare Level-Designs**, zwischen denen der Spieler wechseln kann
 - **Grafikstil**: 3D-Turm mit 2D-Charakteren und Gegnern
 
-![Pog Jump Logo](pictures/1.png)
 ---
 
 Der Quellcode von **Pog Jump** ist nicht im Repo. Wer Interesse hat, kann ihn aber auf Anfrage **einsehen**.
+
+![Pog Jump Logo](pictures/1.png)
+---
