@@ -44,4 +44,4 @@ Pog Jump ist ein einfaches, aber unterhaltsames Spiel, bei dem man einen Turm ho
 ![Pog Jump Logo](pictures/1.png)
 ---
 
-Der Quellcode von **Pog Jump** ist nicht hier dabei. Wer Interesse hat, kann ihn aber auf Anfrage **einsehen**.
+Der Quellcode von **Pog Jump** ist nicht im Repo. Wer Interesse hat, kann ihn aber auf Anfrage **einsehen**.
