@@ -34,7 +34,7 @@ Pog Jump ist ein einfaches, aber unterhaltsames Spiel, bei dem man einen Turm ho
 - **Shop** mit In-Game-Münzen (kein echtes Geld)  
 - **Meter Pass** (ähnlich wie ein Season Pass)  
 - **Responsive Design** – passt sich jedem Bildschirm optimal an  
-- **Optimierungsoptionen**: 30 / 60 FPS  
+- **Options**: 30 FPS / 60 FPS / Vsync
 - **Drei Sprachen**: Englisch, Deutsch, Französisch  
 - **5 wählbare Level-Designs**, zwischen denen der Spieler wechseln kann
 - **Grafikstil**: 3D-Turm mit 2D-Charakteren und Gegnern
