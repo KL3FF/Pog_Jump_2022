@@ -4,7 +4,7 @@
   <img src="pictures/gamelogo1.png" alt="Pog Jump Logo" width="400">
 </p
 
-Während meines Bundeswehr-BFD von Oktober 2019 bis Ende 2022 entwickelte ich das Spiel Pog Jump. In dieser Zeit erlernte ich Programmierung in C/C++17 und C# und setzte anschließend mein eigenes Spielprojekt mit GMS um.
+Während meines Bundeswehr-BFD von Oktober 2019 bis Ende 2022 entwickelte ich das Spiel Pog Jump. In dieser Zeit erlernte ich das  Programmieren in C/C++17 und C# und setzte anschließend mein eigenes Spielprojekt mit GMD um.
 
 Das Spiel erreichte zwar keinen kommerziellen Erfolg – unter anderem aufgrund starker Konkurrenz, fehlender Vermarktungserfahrung und persönlicher Herausforderungen –, doch das Projekt ermöglichte mir, umfassende praktische Erfahrungen in der eigenständigen Planung, Umsetzung und Problemlösung zu sammeln.
 
