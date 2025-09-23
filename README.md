@@ -4,11 +4,11 @@
   <img src="pictures/gamelogo1.png" alt="Pog Jump Logo" width="400">
 </p
 
-Während meines Bundeswehr-BFD von Oktober 2019 bis Ende 2022 entwickelte ich das Spiel Pog Jump. In dieser Zeit erlernte ich das  Programmieren in C/C++17 und C# und setzte anschließend mein eigenes Spielprojekt mit GMD um.
+Während meines Bundeswehr-BFD von Oktober 2019 bis Ende 2022 entwickelte ich das Spiel Pog Jump. In dieser Zeit erlernte ich das  Programmieren in C/C++17 und C# und setzte anschließend mein eigenes Spielprojekt mit GMS um.
 
 Das Spiel erreichte zwar keinen kommerziellen Erfolg – unter anderem aufgrund starker Konkurrenz, fehlender Vermarktungserfahrung und persönlicher Herausforderungen –, doch das Projekt ermöglichte mir, umfassende praktische Erfahrungen in der eigenständigen Planung, Umsetzung und Problemlösung zu sammeln.
 
-Nach dem Abschluss des Projekts und einem gescheiterten Selbstständigkeitsversuch bewarb ich mich erfolgreich auf mehrere Ausbildungsplätze. Mein Projekt zeigte potenziellen Arbeitgebern meine Fähigkeit, vollständige Softwareprojekte eigenständig umzusetzen, und ebnete mir den Weg zu meiner Ausbildung.
+Nach dem Abschluss des Projekts und einem Versuch der Selbstständigkeit bewarb ich mich auf mehrere Ausbildungsplätze. Das Projekt zeigte potenziellen Arbeitgebern meine Fähigkeit, vollständige Softwareprojekte eigenständig umzusetzen, und ebnete mir den Weg zu meiner Ausbildung.
 
 Von Januar 2023 bis Juli 2025 absolvierte ich die Ausbildung zum Fachinformatiker für Anwendungsentwicklung erfolgreich und stehe seitdem als qualifizierter Fachinformatiker zur Verfügung.
 
