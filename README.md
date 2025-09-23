@@ -4,15 +4,13 @@
   <img src="pictures/gamelogo1.png" alt="Pog Jump Logo" width="400">
 </p
 
-Pog Jump ist ein Spiel, das ich während meines Bundeswehr-BFD von Oktober 2019 bis Ende 2022 entwickelt habe. In dieser Zeit habe ich in Kursen Programmieren in C/C++17 und C# gelernt und anschließend mein eigenes Spiel mit GMS umgesetzt.
+Während meines Bundeswehr-BFD von Oktober 2019 bis Ende 2022 entwickelte ich das Spiel Pog Jump. In dieser Zeit erlernte ich Programmierung in C/C++17 und C# und setzte anschließend mein eigenes Spielprojekt mit GMS um.
 
-Das Spiel hatte letztlich keinen großen kommerziellen Erfolg. Ich war vermutlich etwas spät dran, und es gab bereits ähnliche Spiele auf dem Markt. Außerdem fehlte mir noch die Erfahrung, um das Projekt erfolgreich zu vermarkten, und der Tod meines Vaters erschwerte die Entwicklung zusätzlich.
+Das Spiel erreichte zwar keinen kommerziellen Erfolg – unter anderem aufgrund starker Konkurrenz, fehlender Vermarktungserfahrung und persönlicher Herausforderungen –, doch das Projekt ermöglichte mir, umfassende praktische Erfahrungen in der eigenständigen Planung, Umsetzung und Problemlösung zu sammeln.
 
-Letztlich scheiterte ich an meinem Vorhaben.
+Nach dem Abschluss des Projekts und einem gescheiterten Selbstständigkeitsversuch bewarb ich mich erfolgreich auf mehrere Ausbildungsplätze. Mein Projekt zeigte potenziellen Arbeitgebern meine Fähigkeit, vollständige Softwareprojekte eigenständig umzusetzen, und ebnete mir den Weg zu meiner Ausbildung.
 
-Nach dem Misserfolg des Projektes und dem gescheiterten Versuch der Selbstständigkeit habe ich mich auf mehrere Ausbildungsplätze beworben. Mein Projekt hat mir beim Bewerbungsprozess sehr geholfen, da es zeigte, dass ich in der Lage bin, eigenständig ein vollständiges Projekt umzusetzen, wodurch ich schließlich einen Ausbildungsplatz erhalten habe.
-
-Ich habe die Ausbildung von Januar 2023 bis Juli 2025 erfolgreich abgeschlossen und bin seitdem Fachinformatiker für Anwendungsentwicklung.
+Von Januar 2023 bis Juli 2025 absolvierte ich die Ausbildung zum Fachinformatiker für Anwendungsentwicklung erfolgreich und stehe seitdem als qualifizierter Fachinformatiker zur Verfügung.
 
 ---
 
